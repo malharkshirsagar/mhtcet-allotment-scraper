@@ -40,7 +40,7 @@ Place your source CSV file (configured with columns like Institute Code, Institu
 
 Run the automation script:
 
-  python main.py
+  python download.py
 
 The script will check for existing round archives, prompt for confirmation if found, and output compressed zip bundles (e.g., all_colleges_cap-i.zip) containing all successfully fetched college PDFs.
 ---
