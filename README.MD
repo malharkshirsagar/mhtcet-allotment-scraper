@@ -26,12 +26,12 @@ An automated Python script designed to programmatically fetch, ingest, and bundl
 ## Installation
 
 1. **Clone the repository:**
-   
+   ```bash
    git clone [https://github.com/malharkshirsagar/mhtcet-allotment-scraper.git](https://github.com/malharkshirsagar/mhtcet-allotment-scraper.git)
    cd mhtcet-allotment-scraper
 
 2. **Install the required dependencies:**
-
+  ```bash
     pip install -r requirements.txt
 ---
 ## Usage
