@@ -31,7 +31,7 @@ An automated Python script designed to programmatically fetch, ingest, and bundl
    cd mhtcet-allotment-scraper
 
 2. **Install the required dependencies:**
-  ```bash
+
     pip install -r requirements.txt
 ---
 ## Usage
